@@ -19,7 +19,7 @@ it displays all the purchases made in a list in descending order.
 * All Purchases and the final balance of the Credit Card are printed
 
 
-## 🤖Technologies 
+## 🤖 Technologies 
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
